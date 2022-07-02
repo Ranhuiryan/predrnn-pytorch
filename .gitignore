@@ -108,6 +108,7 @@ venv.bak/
 data
 work_dirs
 checkpoints
+results
 .vscode
 .idea
 
